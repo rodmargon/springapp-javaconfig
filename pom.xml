@@ -11,7 +11,7 @@
     <finalName>springapp</finalName>
   </build>
   <properties>
-  	<org.springframework.version>4.3.7.RELEASE</org.springframework.version>
+  	<org.springframework.version>4.3.18</org.springframework.version>
   </properties>
   <dependencies>
   	<dependency>
